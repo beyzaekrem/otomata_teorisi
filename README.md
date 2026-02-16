@@ -52,15 +52,18 @@ This implementation bridges the gap between theory and practice, facilitating ha
 
 ## Repository Structure
 
+```
 otomata_teorisi/
-├── automata/ # Core automata code
-├── examples/ # Example automata definitions
-├── tests/ # Unit tests for components
-├── visualizations/ # Output graphs or diagrams
-├── main.py # Entry point to run simulations
-├── requirements.txt # Dependencies
-└── README.md # Documentation
-
+│
+├── automata/              # Core automata implementation
+├── examples/              # Example automata definitions
+├── tests/                 # Unit tests
+├── visualizations/        # Output graphs or diagrams
+│
+├── main.py                # Entry point for simulations
+├── requirements.txt       # Project dependencies
+└── README.md              # Project documentation
+```
 
 ---
 
